@@ -81,7 +81,7 @@ body{
     width: 820px;
     height: 88px;
     margin: 0;
-    padding: 12px 0 0 30px;
+    padding: 12px 0 0 160px;
     list-style-type: none;
     font-size: 16px;
 }
@@ -94,7 +94,94 @@ body{
 .link-t{
   display:block;
   padding:26px 10px 38px;
+}
+
+.tt{
   color:#333;
 }
 
 
+.rightnav-t{
+  float: right;
+    width: 296px;
+    margin-top: 25px;
+}
+
+#t-liuyiting{
+  position: relative;
+    width: 296px;
+    height: 50px;
+    margin-left:10px;
+}
+
+.SearchBox{
+  position: absolute;
+    top: 0;
+    right: 51px;
+    z-index: 1;
+    width: 223px;
+    height: 48px;
+    padding: 0 10px;
+    border: 1px solid #e0e0e0;
+    font-size: 14px;
+    line-height: 48px;
+    outline: 0;
+    transition: all .2s;
+}
+
+.SearchBtn{
+  position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 2;
+    width: 52px;
+    height: 50px;
+    border: 1px solid #e0e0e0;
+    font-size: 24px;
+    line-height: 24px;
+    background: #fff;
+    color: #616161;
+    outline: 0;
+    transition: all .2s;
+
+}
+
+.sub-content-0813{
+  position: absolute;
+  top: 140px;
+  left: 139px;
+  z-index: 21;
+  width: 234px;
+  height: 440px;
+  font-size: 14px;
+ }
+
+.liuyiting{
+  height: 440px;
+    border: 0;
+    color: #fff;
+    background: rgba(0,0,0,0.6);
+    list-style-type:none;
+
+}
+
+.category-item{
+  display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.title{
+  position: relative;
+    display: block;
+    padding-left: 30px;
+    height: 42px;
+    line-height: 42px;
+}
+
+.iconfont{
+  position: absolute;
+    top: 12px;
+    right: 20px;
+    font-size: 16px;
+    line-height: 16px;
+}
