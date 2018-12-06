@@ -1,0 +1,302 @@
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  min-width: 1226px;
+  font: 14px/1.5 "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+  color: #333;
+  background-color: #fff;
+  min-width: 1226px;
+}
+
+
+
+
+
+
+#tou-0813{
+  z-index: 30;
+  height: 40px;
+  font-size: 12px;
+  color:#b0b0b0;
+  background:#333;
+}
+
+.container{
+  width: 1226px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
+.qian-liu{
+    float: left;
+    height: 40px;
+    line-height: 40px;
+}
+
+.hou-liu{
+  line-height: 40px;
+  float: right;
+  height: 40px;
+}
+
+.container a{
+  text-decoration:none;
+  color:#b0b0b0;
+}
+
+.che-liu{
+  width: 120px;
+  margin-left: 15px;
+  float: right;
+  height: 40px;
+  position: relative;
+    z-index: 32;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #b0b0b0;
+    background: #424242;
+}
+
+.mitu-liu{
+  float: left;
+  width: 62px;
+  margin-top: 22px;
+}
+
+.logo-liu{
+  position: relative;
+  display: block;
+  width: 55px;
+  height: 55px;
+  overflow: hidden;
+}
+
+.header-liu{
+  float: left;
+  width: 850px;
+}
+
+.navzuo-t{
+    position: relative;
+    z-index: 10;
+    float: left;
+    width: 820px;
+    height: 88px;
+    margin: 0;
+    padding: 12px 0 0 160px; 
+    list-style-type: none;
+    font-size: 16px;
+}
+
+.nav-item{
+  float:left;
+  list-style-type:none;
+}
+
+
+
+.link-t{
+  display:block;
+  padding:26px 10px 38px;
+}
+
+.tt{
+  color:#333;
+}
+
+
+.rightnav-t{
+  float: right;
+    width: 296px;
+    margin-top: 25px;
+}
+
+#t-liuyiting{
+  position: relative;
+    width: 296px;
+    height: 50px;
+    margin-left:2px;
+}
+
+.SearchBox{
+  position: absolute;
+    top: 0;
+    right: 51px;
+    z-index: 1;
+    width: 223px;
+    height: 48px;
+    padding: 0 10px;
+    border: 1px solid #e0e0e0;
+    font-size: 14px;
+    line-height: 48px;
+    outline: 0;
+    transition: all .2s;
+}
+
+.SearchBtn{
+  position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 2;
+    width: 52px;
+    height: 50px;
+    border: 1px solid #e0e0e0;
+    font-size: 24px;
+    line-height: 24px;
+    background: #fff;
+    color: #616161;
+    outline: 0;
+    transition: all .2s;
+
+}
+
+.sub-content-0813{
+  position: absolute;
+  top: 140px;
+  z-index: 21;
+  width: 234px;
+  height: 460px;
+  font-size: 14px;
+ }
+
+ .sub-content-0813 ul li a:hover{
+   background-color:#cc6600;
+ }
+
+#liuyiting{
+  height: 420px;
+    border: 0;
+    color: #fff;
+    background: rgba(0,0,0,0.6);
+    list-style-type:none;
+}
+
+.liuyiting-dianji{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding-top:20px;
+  padding-right:0px;
+  padding-bottom:20px;
+  padding-left:0px;
+  border:1px solid #ff6700;
+}
+
+.category-item{
+  display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.title{
+  position: relative;
+    display: block;
+    padding-left: 30px;
+    height: 42px;
+    line-height: 42px;
+}
+
+.iconfont{
+  position: absolute;
+    top: 12px;
+    right: 20px;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.datu-liu{
+  width: 1000px;
+    height: 462px;
+    margin-left:370px;
+}
+
+.tu1-liu{
+  float:left;
+  width: 234px;
+ 
+}
+
+.sanzhangtu ul{
+  margin:0;
+  padding:0;
+  list-style-type:none;
+}
+.sanzhangtu{
+  width:978px;
+  float:left;
+  margin-left:14px;
+  min-height:1px;
+}
+.sanzhangtu-liu li img{
+  width:316px;
+  height:170px;
+}
+.sanzhangtu-liu li.first{
+  margin-left:0;
+}
+
+.sanzhangtu-liu li{
+  float:left;
+  width:316px;
+  height:170px;
+  margin-left:15px;
+}
+
+.sanzhangtu-liu li a{
+  display:block;
+  height:170px;
+}
+img{
+  border:0;
+}
+.sizhangtu-liu{
+  margin-top:14px;
+}
+
+.container{
+  width: 1226px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#all{
+  width: 1226px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.qian-liu .sep{
+  margin: 0 .25em;
+  color: #424242;
+}
+.hou-liu .sep{
+  margin: 0 .25em;
+  color: #424242;
+}
+.qian-liu a:hover{
+  color:#fff;
+} 
+.hou-liu a:hover{
+  color: #fff;
+}
+
+.navzuo-t .nav-item a:hover{
+  color: #cc6600;
+}
+
+.head-nav-liu .header-liu .link-t2 {
+color: #333;
+display: block;
+padding: 26px 10px 38px;
+}
+.che-liu a:hover{
+  color: #cc6600;
+}
+.che-liu:hover{
+  background-color: #fff;
+}
