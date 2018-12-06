@@ -3,6 +3,7 @@ body{
   margin-right: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
+  min-width: 1226px;
 }
 
 
@@ -81,7 +82,7 @@ body{
     width: 820px;
     height: 88px;
     margin: 0;
-    padding: 12px 0 0 160px;
+    padding: 12px 0 0 160px; 
     list-style-type: none;
     font-size: 16px;
 }
@@ -90,6 +91,8 @@ body{
   float:left;
   list-style-type:none;
 }
+
+
 
 .link-t{
   display:block;
@@ -111,7 +114,7 @@ body{
   position: relative;
     width: 296px;
     height: 50px;
-    margin-left:10px;
+    margin-left:2px;
 }
 
 .SearchBox{
@@ -149,20 +152,35 @@ body{
 .sub-content-0813{
   position: absolute;
   top: 140px;
-  left: 139px;
+  left: 132px;
   z-index: 21;
   width: 234px;
-  height: 440px;
+  height: 460px;
   font-size: 14px;
  }
 
-.liuyiting{
-  height: 440px;
+ .sub-content-0813 ul li a:hover{
+   background-color:#cc6600;
+ }
+
+#liuyiting{
+  height: 420px;
     border: 0;
     color: #fff;
     background: rgba(0,0,0,0.6);
     list-style-type:none;
+}
 
+.liuyiting-dianji{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding-top:20px;
+  padding-right:0px;
+  padding-bottom:20px;
+  padding-left:0px;
+  border:1px solid #ff6700;
 }
 
 .category-item{
@@ -185,3 +203,59 @@ body{
     font-size: 16px;
     line-height: 16px;
 }
+
+.datu-liu{
+  width: 1000px;
+    height: 462px;
+    margin-left:362px;
+}
+
+
+
+
+
+
+
+
+.sizhangtu-liu{
+  margin-top: 14px;
+}
+
+.tu1-liu{
+  width: 234px;
+  margin-top:0px;
+  margin-left:0px;
+  margin-right:0px;
+  margin-bottom:0px;
+  padding-top:3px;
+  padding-right:3px;
+  padding-bottom:3px;
+  padding-left:3px;
+  list-style-type: none;
+    font-size: 12px;
+    text-align: center;
+    margin-left:128px;
+}
+
+.tu2-liu{
+  width:316px;
+  height:170px;
+}
+
+.tu3-liu{
+  width:316px;
+  height:170px;
+}
+
+.tu4-liu{
+  width:316px;
+  height:170px;
+}
+
+.sanzhangtu{
+  margin-top:18px;
+}
+
+
+
+
