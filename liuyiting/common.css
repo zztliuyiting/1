@@ -7,7 +7,7 @@ body{
     font: 14px/1.5 "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
     color: #333;
     background-color: #fff;
-    min-width: 1226px;
+    
   }
   
   
@@ -303,15 +303,53 @@ body{
 
 
 
-.wntj-lyt{
-  float: left;
-  width: 1226px;
-  height: 58px
+#jiadian-lyt{
+  float:left;
+  width:1226px;
 }
+
+.toubu-2002{
+  position: relative;
+    height: 58px;
+    -webkit-font-smoothing: antialiased;
+    display: block;
+}
+
 h2{
-  margin-top: 6px;
-  font-size: 22px;
+  margin: 0;
+    font-size: 22px;
     font-weight: 200;
     line-height: 58px;
     color: #333;
+    display: block;
 }
+
+.youzi-13{
+  position: absolute;
+    top: 0;
+    right: 0;
+    display: block
+}
+
+.youzi-yt{
+  margin: 0;
+    padding: 16px 0 0;
+    list-style-type: none;
+    font-size: 16px;
+}
+
+.tab-active{
+    font-size: 16px;
+    list-style-type:none;
+    margin: 0 0 0 30px;
+    display: inline-block;
+    color: #ff6700;
+    border-bottom: 2px solid
+}
+.tad-active{
+  font-size: 16px;
+    list-style-type:none;
+    margin: 0 0 0 30px;
+    display: inline-block;
+}
+
